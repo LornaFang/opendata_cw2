@@ -90,15 +90,6 @@
         "ISO3": "DE"
     },
     {
-        "Province_State": "Diamond Princess",
-        "Confirmed": "49",
-        "Deaths": "0",
-        "Recovered": "",
-        "Active": "49",
-        "Incident_Rate": "",
-        "People_Tested": ""
-    },
-    {
         "Province_State": "District of Columbia",
         "Confirmed": "7966",
         "Deaths": "427",
