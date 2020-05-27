@@ -1,0 +1,580 @@
+[
+    {
+        "Province_State": "Alabama",
+        "Confirmed": "14117",
+        "Deaths": "549",
+        "Recovered": "7951",
+        "Active": "5617",
+        "Incident_Rate": "287.9148961",
+        "People_Tested": "182676",
+        "ISO3": "AL"
+    },
+    {
+        "Province_State": "Alaska",
+        "Confirmed": "407",
+        "Deaths": "10",
+        "Recovered": "358",
+        "Active": "39",
+        "Incident_Rate": "55.63567518",
+        "People_Tested": "42351",
+        "ISO3": "AK"
+    },
+    {
+        "Province_State": "American Samoa",
+        "Confirmed": "0",
+        "Deaths": "0",
+        "Recovered": "",
+        "Active": "0",
+        "Incident_Rate": "0",
+        "People_Tested": "124",
+        "ISO3": "AS"
+    },
+    {
+        "Province_State": "Arizona",
+        "Confirmed": "16053",
+        "Deaths": "801",
+        "Recovered": "4033",
+        "Active": "11219",
+        "Incident_Rate": "220.5471102",
+        "People_Tested": "180439",
+        "ISO3": "AZ"
+    },
+    {
+        "Province_State": "Arkansas",
+        "Confirmed": "5775",
+        "Deaths": "115",
+        "Recovered": "4029",
+        "Active": "1631",
+        "Incident_Rate": "191.3643166",
+        "People_Tested": "103047",
+        "ISO3": "AR"
+    },
+    {
+        "Province_State": "California",
+        "Confirmed": "92539",
+        "Deaths": "3738",
+        "Recovered": "",
+        "Active": "88801",
+        "Incident_Rate": "234.2034767",
+        "People_Tested": "1515306",
+        "ISO3": "CA"
+    },
+    {
+        "Province_State": "Colorado",
+        "Confirmed": "23964",
+        "Deaths": "1327",
+        "Recovered": "3612",
+        "Active": "19025",
+        "Incident_Rate": "416.1329847",
+        "People_Tested": "144952",
+        "ISO3": "CO"
+    },
+    {
+        "Province_State": "Connecticut",
+        "Confirmed": "40022",
+        "Deaths": "3675",
+        "Recovered": "7127",
+        "Active": "29220",
+        "Incident_Rate": "1122.546376",
+        "People_Tested": "208367",
+        "ISO3": "CT"
+    },
+    {
+        "Province_State": "Delaware",
+        "Confirmed": "8529",
+        "Deaths": "322",
+        "Recovered": "4454",
+        "Active": "3753",
+        "Incident_Rate": "875.8795766",
+        "People_Tested": "50534",
+        "ISO3": "DE"
+    },
+    {
+        "Province_State": "Diamond Princess",
+        "Confirmed": "49",
+        "Deaths": "0",
+        "Recovered": "",
+        "Active": "49",
+        "Incident_Rate": "",
+        "People_Tested": ""
+    },
+    {
+        "Province_State": "District of Columbia",
+        "Confirmed": "7966",
+        "Deaths": "427",
+        "Recovered": "1075",
+        "Active": "6464",
+        "Incident_Rate": "1128.729903",
+        "People_Tested": "51991",
+        "ISO3": "DC"
+    },
+    {
+        "Province_State": "Florida",
+        "Confirmed": "50127",
+        "Deaths": "2233",
+        "Recovered": "",
+        "Active": "47894",
+        "Incident_Rate": "233.3905104",
+        "People_Tested": "856437",
+        "ISO3": "FL"
+    },
+    {
+        "Province_State": "Georgia",
+        "Confirmed": "42242",
+        "Deaths": "1822",
+        "Recovered": "",
+        "Active": "40420",
+        "Incident_Rate": "397.8554872",
+        "People_Tested": "453537",
+        "ISO3": "GA"
+    },
+    {
+        "Province_State": "Grand Princess",
+        "Confirmed": "103",
+        "Deaths": "3",
+        "Recovered": "",
+        "Active": "100",
+        "Incident_Rate": "",
+        "People_Tested": ""
+    },
+    {
+        "Province_State": "Guam",
+        "Confirmed": "165",
+        "Deaths": "5",
+        "Recovered": "134",
+        "Active": "26",
+        "Incident_Rate": "100.4694664",
+        "People_Tested": "5359",
+        "ISO3": "GU"
+    },
+    {
+        "Province_State": "Hawaii",
+        "Confirmed": "643",
+        "Deaths": "17",
+        "Recovered": "585",
+        "Active": "41",
+        "Incident_Rate": "45.41370971",
+        "People_Tested": "48821",
+        "ISO3": "HI"
+    },
+    {
+        "Province_State": "Idaho",
+        "Confirmed": "2595",
+        "Deaths": "79",
+        "Recovered": "1735",
+        "Active": "781",
+        "Incident_Rate": "145.210163",
+        "People_Tested": "40609",
+        "ISO3": "ID"
+    },
+    {
+        "Province_State": "Illinois",
+        "Confirmed": "107796",
+        "Deaths": "4790",
+        "Recovered": "",
+        "Active": "103006",
+        "Incident_Rate": "850.6748951",
+        "People_Tested": "722247",
+        "ISO3": "IL"
+    },
+    {
+        "Province_State": "Indiana",
+        "Confirmed": "30901",
+        "Deaths": "1964",
+        "Recovered": "",
+        "Active": "28937",
+        "Incident_Rate": "459.0017051",
+        "People_Tested": "214933",
+        "ISO3": "IN"
+    },
+    {
+        "Province_State": "Iowa",
+        "Confirmed": "16898",
+        "Deaths": "446",
+        "Recovered": "9254",
+        "Active": "7198",
+        "Incident_Rate": "535.5824118",
+        "People_Tested": "123941",
+        "ISO3": "IA"
+    },
+    {
+        "Province_State": "Kansas",
+        "Confirmed": "8946",
+        "Deaths": "205",
+        "Recovered": "485",
+        "Active": "8256",
+        "Incident_Rate": "307.072976",
+        "People_Tested": "76434",
+        "ISO3": "KS"
+    },
+    {
+        "Province_State": "Kentucky",
+        "Confirmed": "8571",
+        "Deaths": "391",
+        "Recovered": "3069",
+        "Active": "5111",
+        "Incident_Rate": "191.8448373",
+        "People_Tested": "171459",
+        "ISO3": "KY"
+    },
+    {
+        "Province_State": "Louisiana",
+        "Confirmed": "36925",
+        "Deaths": "2668",
+        "Recovered": "26249",
+        "Active": "8008",
+        "Incident_Rate": "794.292025",
+        "People_Tested": "314447",
+        "ISO3": "LA"
+    },
+    {
+        "Province_State": "Maine",
+        "Confirmed": "2013",
+        "Deaths": "77",
+        "Recovered": "1232",
+        "Active": "704",
+        "Incident_Rate": "149.7531639",
+        "People_Tested": "37463",
+        "ISO3": "ME"
+    },
+    {
+        "Province_State": "Maryland",
+        "Confirmed": "45495",
+        "Deaths": "2243",
+        "Recovered": "3283",
+        "Active": "39969",
+        "Incident_Rate": "752.5208082",
+        "People_Tested": "232327",
+        "ISO3": "MD"
+    },
+    {
+        "Province_State": "Massachusetts",
+        "Confirmed": "91662",
+        "Deaths": "6304",
+        "Recovered": "",
+        "Active": "85358",
+        "Incident_Rate": "1329.879726",
+        "People_Tested": "520986",
+        "ISO3": "MA"
+    },
+    {
+        "Province_State": "Michigan",
+        "Confirmed": "54365",
+        "Deaths": "5223",
+        "Recovered": "33168",
+        "Active": "15974",
+        "Incident_Rate": "544.3654595",
+        "People_Tested": "450918",
+        "ISO3": "MI"
+    },
+    {
+        "Province_State": "Minnesota",
+        "Confirmed": "19845",
+        "Deaths": "861",
+        "Recovered": "13485",
+        "Active": "5499",
+        "Incident_Rate": "351.884662",
+        "People_Tested": "189493",
+        "ISO3": "MN"
+    },
+    {
+        "Province_State": "Mississippi",
+        "Confirmed": "13005",
+        "Deaths": "616",
+        "Recovered": "7681",
+        "Active": "4708",
+        "Incident_Rate": "436.9740897",
+        "People_Tested": "134220",
+        "ISO3": "MS"
+    },
+    {
+        "Province_State": "Missouri",
+        "Confirmed": "11966",
+        "Deaths": "682",
+        "Recovered": "",
+        "Active": "11284",
+        "Incident_Rate": "194.967664",
+        "People_Tested": "148304",
+        "ISO3": "MO"
+    },
+    {
+        "Province_State": "Montana",
+        "Confirmed": "479",
+        "Deaths": "16",
+        "Recovered": "441",
+        "Active": "22",
+        "Incident_Rate": "44.81753928",
+        "People_Tested": "32652",
+        "ISO3": "MT"
+    },
+    {
+        "Province_State": "Nebraska",
+        "Confirmed": "11963",
+        "Deaths": "147",
+        "Recovered": "",
+        "Active": "11816",
+        "Incident_Rate": "618.4320991",
+        "People_Tested": "79982",
+        "ISO3": "NE"
+    },
+    {
+        "Province_State": "Nevada",
+        "Confirmed": "7526",
+        "Deaths": "387",
+        "Recovered": "359",
+        "Active": "6780",
+        "Incident_Rate": "244.3382738",
+        "People_Tested": "107047",
+        "ISO3": "NV"
+    },
+    {
+        "Province_State": "New Hampshire",
+        "Confirmed": "4089",
+        "Deaths": "208",
+        "Recovered": "2197",
+        "Active": "1684",
+        "Incident_Rate": "300.7256689",
+        "People_Tested": "59539",
+        "ISO3": "NH"
+    },
+    {
+        "Province_State": "New Jersey",
+        "Confirmed": "153140",
+        "Deaths": "11082",
+        "Recovered": "24762",
+        "Active": "117296",
+        "Incident_Rate": "1724.124343",
+        "People_Tested": "578735",
+        "ISO3": "NJ"
+    },
+    {
+        "Province_State": "New Mexico",
+        "Confirmed": "6625",
+        "Deaths": "302",
+        "Recovered": "2149",
+        "Active": "4174",
+        "Incident_Rate": "315.9532799",
+        "People_Tested": "158383",
+        "ISO3": "NM"
+    },
+    {
+        "Province_State": "New York",
+        "Confirmed": "359926",
+        "Deaths": "29031",
+        "Recovered": "63292",
+        "Active": "267603",
+        "Incident_Rate": "1850.18054",
+        "People_Tested": "1652061",
+        "ISO3": "NY"
+    },
+    {
+        "Province_State": "North Carolina",
+        "Confirmed": "22864",
+        "Deaths": "778",
+        "Recovered": "11637",
+        "Active": "10449",
+        "Incident_Rate": "217.9997796",
+        "People_Tested": "329582",
+        "ISO3": "NC"
+    },
+    {
+        "Province_State": "North Dakota",
+        "Confirmed": "2365",
+        "Deaths": "52",
+        "Recovered": "1451",
+        "Active": "862",
+        "Incident_Rate": "310.3422031",
+        "People_Tested": "64148",
+        "ISO3": "ND"
+    },
+    {
+        "Province_State": "Northern Mariana Islands",
+        "Confirmed": "22",
+        "Deaths": "2",
+        "Recovered": "13",
+        "Active": "7",
+        "Incident_Rate": "39.89554621",
+        "People_Tested": "4318",
+        "ISO3": "MP"
+    },
+    {
+        "Province_State": "Ohio",
+        "Confirmed": "31408",
+        "Deaths": "1956",
+        "Recovered": "",
+        "Active": "29452",
+        "Incident_Rate": "268.6947669",
+        "People_Tested": "316494",
+        "ISO3": "OH"
+    },
+    {
+        "Province_State": "Oklahoma",
+        "Confirmed": "5960",
+        "Deaths": "311",
+        "Recovered": "4645",
+        "Active": "1004",
+        "Incident_Rate": "150.6202598",
+        "People_Tested": "160903",
+        "ISO3": "OK"
+    },
+    {
+        "Province_State": "Oregon",
+        "Confirmed": "3888",
+        "Deaths": "147",
+        "Recovered": "1376",
+        "Active": "2365",
+        "Incident_Rate": "92.18213464",
+        "People_Tested": "110207",
+        "ISO3": "OR"
+    },
+    {
+        "Province_State": "Pennsylvania",
+        "Confirmed": "71009",
+        "Deaths": "5112",
+        "Recovered": "39519",
+        "Active": "26378",
+        "Incident_Rate": "554.6716217",
+        "People_Tested": "388452",
+        "ISO3": "PA"
+    },
+    {
+        "Province_State": "Puerto Rico",
+        "Confirmed": "3100",
+        "Deaths": "127",
+        "Recovered": "",
+        "Active": "2973",
+        "Incident_Rate": "105.6791282",
+        "People_Tested": "3100",
+        "ISO3": "PR"
+    },
+    {
+        "Province_State": "Rhode Island",
+        "Confirmed": "13952",
+        "Deaths": "597",
+        "Recovered": "1106",
+        "Active": "12249",
+        "Incident_Rate": "1317.020355",
+        "People_Tested": "130132",
+        "ISO3": "RI"
+    },
+    {
+        "Province_State": "South Carolina",
+        "Confirmed": "9895",
+        "Deaths": "425",
+        "Recovered": "5743",
+        "Active": "3727",
+        "Incident_Rate": "192.1839123",
+        "People_Tested": "158910",
+        "ISO3": "SC"
+    },
+    {
+        "Province_State": "South Dakota",
+        "Confirmed": "4464",
+        "Deaths": "50",
+        "Recovered": "3336",
+        "Active": "1078",
+        "Incident_Rate": "504.6012079",
+        "People_Tested": "33528",
+        "ISO3": "SD"
+    },
+    {
+        "Province_State": "Tennessee",
+        "Confirmed": "19785",
+        "Deaths": "329",
+        "Recovered": "12745",
+        "Active": "6711",
+        "Incident_Rate": "289.7129287",
+        "People_Tested": "373758",
+        "ISO3": "TN"
+    },
+    {
+        "Province_State": "Texas",
+        "Confirmed": "54776",
+        "Deaths": "1478",
+        "Recovered": "32277",
+        "Active": "21021",
+        "Incident_Rate": "188.9095903",
+        "People_Tested": "762706",
+        "ISO3": "TX"
+    },
+    {
+        "Province_State": "Utah",
+        "Confirmed": "8260",
+        "Deaths": "97",
+        "Recovered": "4898",
+        "Active": "3265",
+        "Incident_Rate": "257.6452967",
+        "People_Tested": "190779",
+        "ISO3": "UT"
+    },
+    {
+        "Province_State": "Vermont",
+        "Confirmed": "954",
+        "Deaths": "54",
+        "Recovered": "837",
+        "Active": "63",
+        "Incident_Rate": "152.8873105",
+        "People_Tested": "27424",
+        "ISO3": "VT"
+    },
+    {
+        "Province_State": "Virgin Islands",
+        "Confirmed": "69",
+        "Deaths": "6",
+        "Recovered": "61",
+        "Active": "2",
+        "Incident_Rate": "64.32486855",
+        "People_Tested": "1412",
+        "ISO3": "VI"
+    },
+    {
+        "Province_State": "Virginia",
+        "Confirmed": "35749",
+        "Deaths": "1159",
+        "Recovered": "5047",
+        "Active": "29543",
+        "Incident_Rate": "418.8263186",
+        "People_Tested": "232470",
+        "ISO3": "VA"
+    },
+    {
+        "Province_State": "Washington",
+        "Confirmed": "19265",
+        "Deaths": "1050",
+        "Recovered": "",
+        "Active": "18215",
+        "Incident_Rate": "252.9910795",
+        "People_Tested": "308358",
+        "ISO3": "WA"
+    },
+    {
+        "Province_State": "West Virginia",
+        "Confirmed": "1705",
+        "Deaths": "72",
+        "Recovered": "1110",
+        "Active": "523",
+        "Incident_Rate": "95.13728506",
+        "People_Tested": "83744",
+        "ISO3": "WV"
+    },
+    {
+        "Province_State": "Wisconsin",
+        "Confirmed": "14877",
+        "Deaths": "507",
+        "Recovered": "8688",
+        "Active": "5682",
+        "Incident_Rate": "255.5116984",
+        "People_Tested": "194206",
+        "ISO3": "WI"
+    },
+    {
+        "Province_State": "Wyoming",
+        "Confirmed": "813",
+        "Deaths": "12",
+        "Recovered": "551",
+        "Active": "250",
+        "Incident_Rate": "140.4729775",
+        "People_Tested": "20034",
+        "ISO3": "WY"
+    }
+]
